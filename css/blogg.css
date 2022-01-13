@@ -1,3 +1,18 @@
 body{
-	background-color: darkred;
+	margin: 10;
+}
+header{
+	background-color: #32a89b;
+	text-align: center;
+	padding-top: 50px;
+	padd
+}
+header h1{
+	color: #a83232;
+}
+header img{
+	    border-radius: 0px;
+    width: 924px;
+    height: 206px;
+    border: 12px solid #134541
 }
