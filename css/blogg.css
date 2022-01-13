@@ -1,18 +1,53 @@
 body{
 	margin: 10;
+	font-size: 20px;
+	font-family: inherit;
+	line-height: 30px;
 }
 header{
 	background-color: #32a89b;
 	text-align: center;
-	padding-top: 50px;
-	padd
+	padding-top: 20px;
+	padding-bottom: 1px;
 }
+
 header h1{
-	color: #a83232;
+	color: darkred;
+	font-family: Verdana;
+	font-size: 25px;
 }
 header img{
 	    border-radius: 0px;
     width: 924px;
     height: 206px;
     border: 12px solid #134541
+}
+main{
+	padding-top: 30;
+	max-width: 1503px;
+	margin: 0px auto;
+	padding-bottom: 30px;
+}
+h2{
+	padding-left: 1100;
+	padding-right: 403;
+	font-size: 30px;
+}
+main img{
+	max-width: 100%;
+	border-radius: 6px;
+}
+a{
+	color: darkblue;
+}
+a:hover{
+	color: darkred;
+	background-color: black;
+}
+footer{
+	background-color:#32a89b;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 400px;
+	padding-right: 500px;
 }
